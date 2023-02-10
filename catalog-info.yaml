@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: poc-signalr-serverless
-  description: App teste
+  name: PocSignalRServerless
+  description: Poc para teste do uso do Azure SignalR Services no modo Serverless
 spec:
   type: website
   lifecycle: experimental
