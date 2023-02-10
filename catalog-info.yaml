@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: poc-signalr-serverless
+  description: App teste
+spec:
+  type: website
+  lifecycle: experimental
+  owner: tie
